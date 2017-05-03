@@ -1,8 +1,7 @@
 <html>
   <head>
     <title>Sample Application JSP Page</title>
-    <title>Karthik</title>
-  </head>
+     </head>
 
   <body bgcolor=white>
 
@@ -18,7 +17,7 @@
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the HelloWorld application....</p>
+  <p>This is the output of a JSP page that is part of the HelloWorld application....by Karthik Ghantasala</p>
 
   <%= new String("Hello!") %>
 
